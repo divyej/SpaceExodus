@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/SpaceExodus/static/css/main.75e8da92.css",
-    "main.js": "/SpaceExodus/static/js/main.c1213286.js",
+    "main.js": "/SpaceExodus/static/js/main.8590a2d5.js",
     "static/media/rocket.jpg": "/SpaceExodus/static/media/rocket.732d51122abed87bf605.jpg",
     "index.html": "/SpaceExodus/index.html",
     "main.75e8da92.css.map": "/SpaceExodus/static/css/main.75e8da92.css.map",
-    "main.c1213286.js.map": "/SpaceExodus/static/js/main.c1213286.js.map"
+    "main.8590a2d5.js.map": "/SpaceExodus/static/js/main.8590a2d5.js.map"
   },
   "entrypoints": [
     "static/css/main.75e8da92.css",
-    "static/js/main.c1213286.js"
+    "static/js/main.8590a2d5.js"
   ]
 }
