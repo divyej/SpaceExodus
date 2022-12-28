@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/SpaceExodus/static/css/main.7eab1d12.css",
-    "main.js": "/SpaceExodus/static/js/main.9a0a78e4.js",
+    "main.css": "/SpaceExodus/static/css/main.84e8e7e3.css",
+    "main.js": "/SpaceExodus/static/js/main.982ae704.js",
     "static/media/rocket1.gif": "/SpaceExodus/static/media/rocket1.6ec75acf95413778b61a.gif",
+    "static/media/pslv.jpg": "/SpaceExodus/static/media/pslv.97d4378fa6723fb5849e.jpg",
+    "static/media/rocket2.gif": "/SpaceExodus/static/media/rocket2.e7565140951b69ece38f.gif",
+    "static/media/rocket3.png": "/SpaceExodus/static/media/rocket3.7ac73e237c748ed9d00e.png",
     "static/media/earth.jpg": "/SpaceExodus/static/media/earth.408fcae14326f86b7a9a.jpg",
     "static/media/mercury_1 (1).jpg": "/SpaceExodus/static/media/mercury_1 (1).7568dca16544063f2870.jpg",
+    "static/media/mars.jpg": "/SpaceExodus/static/media/mars.bc01eee3b226dc058d0c.jpg",
     "static/media/rocket.jpg": "/SpaceExodus/static/media/rocket.732d51122abed87bf605.jpg",
+    "static/media/jupiter.jpeg": "/SpaceExodus/static/media/jupiter.ef5a6767927196398a3c.jpeg",
     "static/media/venus.jpg": "/SpaceExodus/static/media/venus.7b80de25df2b8b904eda.jpg",
-    "static/media/jupiter.jpg": "/SpaceExodus/static/media/jupiter.1994da6ef6b9f82db54f.jpg",
     "static/media/saturn.jpg": "/SpaceExodus/static/media/saturn.d51a8f70d5a438ff848e.jpg",
     "static/media/gslv.png": "/SpaceExodus/static/media/gslv.f72de43a897aae45d502.png",
     "static/media/neptune.jpg": "/SpaceExodus/static/media/neptune.5657ce9a170c6a0c1629.jpg",
     "static/media/uranus.jpg": "/SpaceExodus/static/media/uranus.c9d7cfd258776b493f99.jpg",
     "index.html": "/SpaceExodus/index.html",
-    "main.7eab1d12.css.map": "/SpaceExodus/static/css/main.7eab1d12.css.map",
-    "main.9a0a78e4.js.map": "/SpaceExodus/static/js/main.9a0a78e4.js.map"
+    "main.84e8e7e3.css.map": "/SpaceExodus/static/css/main.84e8e7e3.css.map",
+    "main.982ae704.js.map": "/SpaceExodus/static/js/main.982ae704.js.map"
   },
   "entrypoints": [
-    "static/css/main.7eab1d12.css",
-    "static/js/main.9a0a78e4.js"
+    "static/css/main.84e8e7e3.css",
+    "static/js/main.982ae704.js"
   ]
 }
