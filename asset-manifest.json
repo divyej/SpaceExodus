@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/SpaceExodus/static/css/main.854ab665.css",
-    "main.js": "/SpaceExodus/static/js/main.17e3d8c3.js",
+    "main.css": "/SpaceExodus/static/css/main.7eab1d12.css",
+    "main.js": "/SpaceExodus/static/js/main.9a0a78e4.js",
+    "static/media/rocket1.gif": "/SpaceExodus/static/media/rocket1.6ec75acf95413778b61a.gif",
     "static/media/earth.jpg": "/SpaceExodus/static/media/earth.408fcae14326f86b7a9a.jpg",
     "static/media/mercury_1 (1).jpg": "/SpaceExodus/static/media/mercury_1 (1).7568dca16544063f2870.jpg",
     "static/media/rocket.jpg": "/SpaceExodus/static/media/rocket.732d51122abed87bf605.jpg",
@@ -12,11 +13,11 @@
     "static/media/neptune.jpg": "/SpaceExodus/static/media/neptune.5657ce9a170c6a0c1629.jpg",
     "static/media/uranus.jpg": "/SpaceExodus/static/media/uranus.c9d7cfd258776b493f99.jpg",
     "index.html": "/SpaceExodus/index.html",
-    "main.854ab665.css.map": "/SpaceExodus/static/css/main.854ab665.css.map",
-    "main.17e3d8c3.js.map": "/SpaceExodus/static/js/main.17e3d8c3.js.map"
+    "main.7eab1d12.css.map": "/SpaceExodus/static/css/main.7eab1d12.css.map",
+    "main.9a0a78e4.js.map": "/SpaceExodus/static/js/main.9a0a78e4.js.map"
   },
   "entrypoints": [
-    "static/css/main.854ab665.css",
-    "static/js/main.17e3d8c3.js"
+    "static/css/main.7eab1d12.css",
+    "static/js/main.9a0a78e4.js"
   ]
 }
